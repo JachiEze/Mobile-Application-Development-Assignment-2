@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.locationpinned.MainActivity">
+
+    <!-- search bar -->
+    <item
+        android:id="@+id/action_search"
+        android:title="@string/filter_desc"
+        android:icon="@drawable/ic_search_icon"
+        app:showAsAction="ifRoom|collapseActionView"
+        app:actionViewClass="androidx.appcompat.widget.SearchView" />
+</menu>

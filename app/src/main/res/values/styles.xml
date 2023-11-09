@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MyOutlinedBox" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">@color/blue</item>
+        <item name="hintTextColor">@color/blue</item>
+    </style>
+
+    <style name="MyOutlinedButton" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="strokeColor">@color/green</item>
+        <item name="android:textColor">@color/green</item>
+        <item name="backgroundTint">@color/button_background_tint</item>
+        <item name="rippleColor">@color/transparent_green</item>
+    </style>
+</resources>

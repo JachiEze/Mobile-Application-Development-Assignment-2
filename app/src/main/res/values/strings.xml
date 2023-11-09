@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">LocationPinned</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Location Pins</string>
+    <string name="second_fragment_label">Details</string>
+
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <!-- buttons -->
+    <string name="delete_button">Delete</string>
+    <string name="maps_button">Open In Maps</string>
+
+    <!-- labels -->
+    <string name="latitude_label_v1">Latitude:</string>
+    <string name="longitude_label_v1">Longitude:</string>
+    <string name="latitude_label_v2">Latitude</string>
+    <string name="longitude_label_v2">Longitude</string>
+    <string name="address_label">Address</string>
+    <string name="Coordinates">Coordinates</string>
+
+    <!-- search bar -->
+    <string name="filter_desc">Filter Pins</string>
+    <string name="search_hint">Search Pins</string>
+</resources>
